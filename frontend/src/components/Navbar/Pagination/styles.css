@@ -51,23 +51,3 @@
 .dsmovie-flip-horizontal {
     transform: rotate(180deg);
 }
-COMMIT: Pagination layout
-Passo: MovieCard
-MovieStars
-<div className="dsmovie-stars-container">
-  <StarFull />
-  <StarFull />
-  <StarFull />
-  <StarHalf />
-  <StarEmpty />
-</div>
-.dsmovie-stars-container {
-    width: 130px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.dsmovie-stars-container svg {
-    width: 22px;
-    height: auto;
-}
