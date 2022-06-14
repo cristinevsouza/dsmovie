@@ -1,4 +1,4 @@
 # dsmovie
 
 
-[Aplicação Spring Boot e React JS](https://cristine-dsmovie.netlify.app/)
+[Spring Boot - React JS App](https://cristine-dsmovie.netlify.app/)
